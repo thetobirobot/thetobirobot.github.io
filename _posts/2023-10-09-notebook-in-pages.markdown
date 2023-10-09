@@ -19,6 +19,6 @@ plt.show()
 
 
     
-![png](images/sample-notebook_3_0.png)
+![png](/images/sample-notebook_3_0.png)
     
 
